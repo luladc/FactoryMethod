@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FactoryMethod",
+			"Path": "..\\Source\\FactoryMethod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FactoryMethodEditor",
+			"Path": "..\\Source\\FactoryMethodEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

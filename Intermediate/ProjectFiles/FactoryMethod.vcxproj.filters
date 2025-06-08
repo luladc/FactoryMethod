@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FactoryMethod.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FactoryMethod.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FactoryMethodEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FactoryMethod">
+      <UniqueIdentifier>{C5217F0D-8CB6-3A1F-84A5-3B290D1E5EFE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FactoryMethod\FactoryMethod.Build.cs">
+      <Filter>Source\FactoryMethod</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethod.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethod.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethodCharacter.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethodCharacter.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethodGameMode.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FactoryMethodGameMode.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

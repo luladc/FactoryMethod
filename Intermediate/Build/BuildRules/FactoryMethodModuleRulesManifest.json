@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Descargas\\Unreal Projects\\FactoryMethod\\Source\\FactoryMethod\\FactoryMethod.Build.cs",
+		"C:\\Descargas\\Unreal Projects\\FactoryMethod\\Source\\FactoryMethod.Target.cs",
+		"C:\\Descargas\\Unreal Projects\\FactoryMethod\\Source\\FactoryMethodEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
