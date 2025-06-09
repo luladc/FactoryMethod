@@ -11,6 +11,9 @@
     <None Include="..\..\Source\FactoryMethodEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +35,66 @@
     <Filter Include="Source\FactoryMethod">
       <UniqueIdentifier>{C5217F0D-8CB6-3A1F-84A5-3B290D1E5EFE}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\FactoryMethod\Bloque.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\Bloque.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueAcero.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueAcero.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueConcreto.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueConcreto.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueLadrillo.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueLadrillo.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueMadera.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueMadera.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueOro.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueOro.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueVidrio.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\BloqueVidrio.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\Fabrica.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\Fabrica.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FabricaBloques.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FabricaBloques.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FabricaBloquesMagicos.cpp">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\FactoryMethod\FabricaBloquesMagicos.h">
+      <Filter>Source\FactoryMethod</Filter>
+    </ClCompile>
     <None Include="..\..\Source\FactoryMethod\FactoryMethod.Build.cs">
       <Filter>Source\FactoryMethod</Filter>
     </None>
