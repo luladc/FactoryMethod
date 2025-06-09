@@ -66,6 +66,9 @@ void AFactoryMethodGameMode::SpawnBloque(FVector posicionBloque, int32 tipoBloqu
 	if (BloqueGenerado)
 	{
 		aBloques.Add(BloqueGenerado);
+
+		// Asignar un ID único
+		MapaDeBloques.Add(IDBloqueActual++, BloqueGenerado);
 	}
 
 }

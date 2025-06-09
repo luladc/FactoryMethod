@@ -60,6 +60,12 @@ public:
 	// Declarar un array de punteros a objetos de tipo BloqueMadera
 	TArray<ABloque*> aBloques;
 
+	// Mapa que asocia ID únicos con bloques generados
+	TMap<int32, ABloque*> MapaDeBloques;
+
+	// Contador incremental de IDs
+	int32 IDBloqueActual = 1;
+
 	//void SpawnBloques();
 	void SpawnBloque(FVector posicion, int32 tipoBloque); 
 	// Método para generar bloques en el mapa
